@@ -1,7 +1,7 @@
 # Computer-Graphics-Illumination-and-Shading
 CSCI-610
 
-Introduction:-
+# Introduction:-
 
 The goal of this assignment is to introduce you to shading in WebGL. The assignment will focus on the Phong Illumination Model and implemented using per-vertex (Gouraud) shading and per-fragment (Phong) shading.
 Rather than having you write the GLSL shader for Phong (which is freely available on the Internet, including the site of last week's online activity) yourself, the assignment will focus on parameter passing from javascript to a set of pre-distributed shaders. 
@@ -10,7 +10,7 @@ It will looks similar to the image below (though your image may vary based on th
 
 ![teapot img](README_image.png)
 
-What you need to do:-
+# What you need to do:-
 
 You will complete functions in the javascript code (most from scratch) that provides the proper parameters to the GLSL shaders. Some of these functions have existed (in some form) in previous assignments and you should feel free to consult the code provided in these previous assignments as guidance. Also, a reference for WebGL javascript calls (made available by Mozilla) can be found here
 
